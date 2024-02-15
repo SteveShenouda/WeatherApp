@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="search">Search</string>
+    <string name="weather_condition_image">Weather Condition Image</string>
+    <string name="search_a_city">Search a city</string>
+    <string name="current_temp">%1$d°</string>
+</resources>
